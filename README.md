@@ -81,11 +81,11 @@ Gerenciamento de pacotes: APT
 
 <h2>Estrutura do Projeto</h2>
 
-docs/        → Documentação e diagramas
-setup/       → Scripts de configuração inicial
-docker/      → Configuração de containers
-nginx/       → Configuração do servidor web
-scripts/     → Automação e manutenção
+docs/        → Documentação e diagramas <br>
+setup/       → Scripts de configuração inicial <br>
+docker/      → Configuração de containers <br>
+nginx/       → Configuração do servidor web <br>
+scripts/     → Automação e manutenção <br>
 
 ---
 
